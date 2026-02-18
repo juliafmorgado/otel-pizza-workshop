@@ -67,7 +67,7 @@ ENV OTEL_EXPORTER_OTLP_PROTOCOL=http/protobuf
 
 ## Step 2: Instrument Kitchen and Delivery Services
 
-Now repeat the same steps for the other two services:
+Now you would do the same steps for the other two services (but we've already done it for you):
 
 ### 2a. Kitchen Service
 
